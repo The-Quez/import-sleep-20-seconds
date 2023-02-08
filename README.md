@@ -1,0 +1,6 @@
+# import-sleep-20-seconds
+import sleep 20 seconds
+
+
+
+#FIRST LINE OF CODE AND LAST LINE OF CODE CAUSE PYTHON PROGRAM TO STAY OPEN FOR 20 SECONDS.
